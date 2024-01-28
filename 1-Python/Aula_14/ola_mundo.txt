@@ -1,0 +1,9 @@
+ada!!vendo algo novo!escrevendo algo no fim!
+isso vai na próxima linha!
+ada
+python
+data science
+1
+42.4
+True
+['a', 'b', 'c']

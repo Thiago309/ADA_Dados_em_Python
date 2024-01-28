@@ -1,0 +1,3 @@
+olá, mundo!
+Esse é meu segundo arquivo!
+é UM TERCEIRO ARQUIVO, usando o with!
